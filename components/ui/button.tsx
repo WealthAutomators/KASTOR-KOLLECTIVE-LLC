@@ -4,21 +4,21 @@ import { cva, type VariantProps } from "class-variance-authority";
 import { cn } from "@/lib/utils";
 
 const buttonVariants = cva(
-  "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-xl text-sm font-medium transition-all duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary/30 disabled:pointer-events-none disabled:opacity-50 cursor-pointer",
+  "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-none text-sm font-medium tracking-wide transition-all duration-300 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary/40 focus-visible:ring-offset-2 focus-visible:ring-offset-background disabled:pointer-events-none disabled:opacity-50 cursor-pointer",
   {
     variants: {
       variant: {
-        default: "bg-primary text-white hover:bg-accent shadow-sm",
-        secondary: "bg-white text-foreground border border-border hover:bg-muted",
-        outline: "border border-primary text-primary bg-transparent hover:bg-primary hover:text-white",
-        ghost: "hover:bg-muted text-foreground",
-        accent: "bg-accent text-white hover:bg-accent/90",
-        link: "text-primary underline-offset-4 hover:underline p-0 h-auto",
+        default: "bg-charcoal text-ivory hover:bg-primary",
+        secondary: "bg-transparent text-foreground border border-border hover:border-charcoal hover:bg-parchment",
+        outline: "border border-charcoal text-charcoal bg-transparent hover:bg-charcoal hover:text-ivory",
+        ghost: "hover:bg-parchment text-foreground",
+        accent: "bg-primary text-ivory hover:bg-charcoal",
+        link: "text-foreground underline-offset-4 hover:underline p-0 h-auto tracking-normal",
       },
       size: {
-        default: "h-11 px-6 py-2",
-        sm: "h-9 px-4 text-xs",
-        lg: "h-12 px-8 text-base",
+        default: "h-11 px-7 py-2",
+        sm: "h-9 px-4 text-xs tracking-[0.12em] uppercase",
+        lg: "h-12 px-8 text-[0.8125rem] tracking-[0.16em] uppercase",
         icon: "h-10 w-10",
       },
     },

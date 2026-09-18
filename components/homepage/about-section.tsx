@@ -1,16 +1,15 @@
 import Image from "next/image";
 import Link from "next/link";
-import { Check } from "lucide-react";
 import { aboutSection } from "@/data/homepage";
 import { Container } from "@/components/ui/container";
 import { Button } from "@/components/ui/button";
 
 export function AboutSection() {
   return (
-    <section className="py-12 md:py-16">
+    <section className="bg-parchment/30 py-16 md:py-24">
       <Container>
-        <div className="grid items-center gap-10 md:grid-cols-2 lg:gap-16">
-          <div className="relative aspect-[4/3] overflow-hidden rounded-xl border border-border shadow-sm">
+        <div className="grid items-center gap-12 md:grid-cols-2 lg:gap-20">
+          <div className="relative aspect-[4/5] overflow-hidden">
             <Image
               src={aboutSection.image}
               alt={aboutSection.title}
@@ -20,17 +19,20 @@ export function AboutSection() {
             />
           </div>
           <div>
-            <h2 className="text-2xl font-semibold tracking-tight md:text-3xl">{aboutSection.title}</h2>
-            <p className="mt-4 leading-relaxed text-muted-foreground">{aboutSection.description}</p>
-            <ul className="mt-6 space-y-3">
+            <p className="editorial-label">Philosophy</p>
+            <h2 className="font-display mt-3 text-3xl font-medium tracking-tight md:text-5xl">
+              {aboutSection.title}
+            </h2>
+            <p className="mt-6 leading-relaxed text-muted-foreground">{aboutSection.description}</p>
+            <ul className="mt-8 space-y-3">
               {aboutSection.checklist.map((item) => (
                 <li key={item} className="flex items-start gap-3 text-sm">
-                  <Check className="mt-0.5 h-4 w-4 shrink-0 text-primary" />
+                  <span className="mt-2 h-px w-6 shrink-0 bg-primary" />
                   {item}
                 </li>
               ))}
             </ul>
-            <Button asChild size="lg" className="mt-8">
+            <Button asChild size="lg" variant="outline" className="mt-10">
               <Link href={aboutSection.buttonLink}>{aboutSection.buttonText}</Link>
             </Button>
           </div>

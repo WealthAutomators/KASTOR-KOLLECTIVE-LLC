@@ -49,18 +49,18 @@ const REVIEW_TITLES_3 = [
 ];
 
 const BODIES_5 = [
-  "Ordered this along with a few other items and everything arrived well-packaged. Quality is exactly what you'd expect from a premium marketplace. Already planning my next order.",
-  "I've compared prices across several sites and this was the best deal. Product works flawlessly and shipping was faster than expected. Very impressed with AAM Partners.",
-  "Bought this as a gift and the recipient loved it. Packaging was neat, product feels premium, and it works exactly as described. Will definitely shop here again.",
-  "This has become a daily essential in our household. Build quality is solid, setup was easy, and it performs better than products I've paid twice as much for elsewhere.",
-  "Wasn't sure about ordering online but this exceeded all expectations. Arrived in two days, works perfectly out of the box, and customer support answered my pre-purchase questions quickly.",
-  "Third time ordering from AAM Partners and they never disappoint. Consistent quality, fair prices, and reliable shipping every single time. Highly recommend.",
-  "The product photos don't do it justice — it's even better in person. Sturdy construction, thoughtful design details, and great value for what you get.",
-  "Perfect for what I needed. Easy to use, well-made, and the price point is very competitive. My whole family has been using it daily since it arrived.",
-  "I read a lot of reviews before buying and I'm glad I went with this one. Does everything it promises and then some. Five stars without hesitation.",
-  "Fast delivery, great packaging, and a product that actually lives up to the description. It's rare to find all three — AAM Partners nailed it.",
-  "Replaced an older version of a similar product and this is a massive upgrade. Better materials, better performance, and it looks great too.",
-  "Ordered during a sale and still would have been happy at full price. Quality is top-notch and it integrated seamlessly into my daily routine.",
+  "Arrived well packed and exactly as described. The materials feel considered — the sort of object you actually leave out rather than put away.",
+  "A quiet, well-made piece. Shipping was prompt and the object looks better in the room than it did on screen.",
+  "Bought this as a gift and it was received with genuine pleasure. Thoughtful packaging, honest materials, nothing extra.",
+  "This has become part of the daily rhythm at home. Solid construction, a calm design, and it does what it should.",
+  "I was unsure about ordering unseen. It arrived quickly, felt right in the hand, and has earned its place.",
+  "Third time ordering from the collective. Consistent quality and a coherent point of view. I keep coming back.",
+  "Photographs understate it. The texture and weight are better in person — a considered object, not a generic listing.",
+  "Exactly what I needed. Easy to live with, well made, and priced fairly for the quality.",
+  "I read the description carefully and it holds up. Does what it promises without overselling.",
+  "Fast delivery, careful packing, and a product that matches the edit. All three, which is rarer than it should be.",
+  "Replaced something I had lived with for years. Better materials, a clearer form, and it looks at home here.",
+  "Would have been happy at full price. Quality is measured, and it settled into the room immediately.",
 ];
 
 const BODIES_4 = [
@@ -99,9 +99,14 @@ function pick<T>(arr: T[], rand: () => number): T {
 }
 
 function formatDate(daysAgo: number): string {
-  const date = new Date();
-  date.setDate(date.getDate() - daysAgo);
-  return date.toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" });
+  const date = new Date(Date.UTC(2026, 8, 17));
+  date.setUTCDate(date.getUTCDate() - daysAgo);
+  return date.toLocaleDateString("en-US", {
+    year: "numeric",
+    month: "long",
+    day: "numeric",
+    timeZone: "UTC",
+  });
 }
 
 export function generateReviewsForProduct(productId: string, productName: string): ProductReview[] {

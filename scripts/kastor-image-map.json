@@ -1,0 +1,1631 @@
+{
+  "products": [
+    {
+      "slug": "hearth-linen-cushion",
+      "query": "linen cushion",
+      "category": "home",
+      "dest": "/products/hearth-linen-cushion-1.jpg",
+      "id": "asset_113",
+      "name": "Linen Cushion Cover",
+      "productType": "Cushion",
+      "libraryCategory": "Home & Living",
+      "path": "images/home-living/linen-cushion-cover-002.jpg",
+      "description": "A woven cushion that layers onto a sofa, armchair or bed.",
+      "visualDescription": "Linen Cushion Cover. Photographed against an in-context setting with surrounding detail; mid-toned overall, dominant tones charcoal, black, red; landscape format.",
+      "designTags": [
+        "coastal",
+        "lifestyle",
+        "minimal",
+        "neutral"
+      ],
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "slug": "wool-throw-blanket",
+      "query": "knit throw blanket",
+      "category": "home",
+      "dest": "/products/wool-throw-blanket-1.jpg",
+      "id": "asset_109",
+      "name": "Knit Throw Blanket",
+      "productType": "Throw Blanket",
+      "libraryCategory": "Home & Living",
+      "path": "images/home-living/knit-throw-blanket-001.jpg",
+      "description": "A knitted throw blanket for draping over a sofa arm or the end of a bed.",
+      "visualDescription": "Knit Throw Blanket. Photographed against an in-context setting with surrounding detail; mid-toned overall, dominant tones orange, yellow; landscape format.",
+      "designTags": [
+        "lifestyle",
+        "minimal",
+        "neutral",
+        "rustic"
+      ],
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "slug": "woven-storage-basket",
+      "query": "woven storage basket",
+      "category": "home",
+      "dest": "/products/woven-storage-basket-1.jpg",
+      "id": "asset_122",
+      "name": "Woven Storage Basket",
+      "productType": "Storage Basket",
+      "libraryCategory": "Home & Living",
+      "path": "images/home-living/woven-storage-basket-001.jpg",
+      "description": "A woven basket for storing blankets, toys or laundry in a living space.",
+      "visualDescription": "Woven Storage Basket. Photographed against an in-context setting with surrounding detail; light overall, dominant tones grey, light grey, yellow; landscape format.",
+      "designTags": [
+        "coastal",
+        "lifestyle",
+        "neutral",
+        "rustic"
+      ],
+      "width": 1024,
+      "height": 662
+    },
+    {
+      "slug": "cedar-side-table",
+      "query": "wooden side table",
+      "category": "home",
+      "dest": "/products/cedar-side-table-1.jpg",
+      "id": "asset_120",
+      "name": "Wooden Side Table",
+      "productType": "Side Table",
+      "libraryCategory": "Home & Living",
+      "path": "images/home-living/wooden-side-table-001.jpg",
+      "description": "A compact side table that sits beside a sofa or bed to hold a lamp, book or cup.",
+      "visualDescription": "Wooden Side Table. Photographed against an in-context setting with surrounding detail; bright overall, dominant tones muted green, orange, muted yellow; landscape format.",
+      "designTags": [
+        "lifestyle",
+        "minimal",
+        "modern",
+        "rustic"
+      ],
+      "width": 1024,
+      "height": 849
+    },
+    {
+      "slug": "stoneware-planter",
+      "query": "ceramic plant pot",
+      "category": "home",
+      "dest": "/products/stoneware-planter-1.jpg",
+      "id": "asset_097",
+      "name": "Ceramic Plant Pot",
+      "productType": "Plant Pot",
+      "libraryCategory": "Home & Living",
+      "path": "images/home-living/ceramic-plant-pot-002.jpg",
+      "description": "A ceramic pot for an indoor plant, suited to shelves, sills and side tables.",
+      "visualDescription": "Ceramic Plant Pot. Photographed against an in-context setting with surrounding detail; mid-toned overall, dominant tones orange, yellow; landscape format.",
+      "designTags": [
+        "lifestyle",
+        "minimal",
+        "modern",
+        "neutral"
+      ],
+      "width": 960,
+      "height": 607
+    },
+    {
+      "slug": "handwoven-area-rug",
+      "query": "woven area rug",
+      "category": "home",
+      "dest": "/products/handwoven-area-rug-1.jpg",
+      "id": "asset_121",
+      "name": "Patterned Woven Rug",
+      "productType": "Area Rug",
+      "libraryCategory": "Home & Living",
+      "path": "images/home-living/patterned-woven-rug-001.jpg",
+      "description": "A patterned woven rug, shown flat.",
+      "visualDescription": "Patterned Woven Rug. Photographed against an in-context setting with surrounding detail; dark overall, dominant tones green, black, yellow; portrait format.",
+      "designTags": [
+        "coastal",
+        "dark",
+        "lifestyle",
+        "neutral",
+        "rustic"
+      ],
+      "width": 745,
+      "height": 1024
+    },
+    {
+      "slug": "washed-linen-bedding",
+      "query": "linen bedding set",
+      "category": "home",
+      "dest": "/products/washed-linen-bedding-1.jpg",
+      "id": "asset_111",
+      "name": "Linen Bedding Set",
+      "productType": "Bedding Set",
+      "libraryCategory": "Home & Living",
+      "path": "images/home-living/linen-bedding-set-001.jpg",
+      "description": "Layered bed linen in a made-up bed, suited to bedroom and bedding collections.",
+      "visualDescription": "Linen Bedding Set. Photographed against an in-context setting with surrounding detail; light overall, dominant tones orange, light grey, muted blue; landscape format.",
+      "designTags": [
+        "coastal",
+        "editorial",
+        "lifestyle",
+        "minimal",
+        "neutral"
+      ],
+      "width": 960,
+      "height": 640
+    },
+    {
+      "slug": "entry-doormat",
+      "query": "doormat",
+      "category": "home",
+      "dest": "/products/entry-doormat-1.jpg",
+      "id": "asset_105",
+      "name": "Doormat",
+      "productType": "Doormat",
+      "libraryCategory": "Home & Living",
+      "path": "images/home-living/doormat-001.jpg",
+      "description": "A mat placed at an entrance for wiping shoes.",
+      "visualDescription": "Doormat. Photographed against an in-context setting with surrounding detail; light overall, dominant tones orange, muted red, red; landscape format.",
+      "designTags": [
+        "lifestyle",
+        "minimal",
+        "neutral",
+        "rustic"
+      ],
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "slug": "stoneware-dinner-plate",
+      "query": "stoneware dinner plate",
+      "category": "kitchen-dining",
+      "dest": "/products/stoneware-dinner-plate-1.jpg",
+      "id": "asset_138",
+      "name": "Stoneware Dinner Plate",
+      "productType": "Dinner Plate",
+      "libraryCategory": "Kitchen & Dining",
+      "path": "images/kitchen-dining/stoneware-dinner-plate-002.jpg",
+      "description": "A stoneware dinner plate for everyday table settings.",
+      "visualDescription": "Stoneware Dinner Plate. Photographed against an in-context setting with surrounding detail; light overall, dominant tones light grey, orange, muted yellow; square format.",
+      "designTags": [
+        "lifestyle",
+        "minimal",
+        "neutral",
+        "rustic",
+        "studio"
+      ],
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "slug": "everyday-ceramic-mug",
+      "query": "ceramic mug",
+      "category": "kitchen-dining",
+      "dest": "/products/everyday-ceramic-mug-1.jpg",
+      "id": "asset_126",
+      "name": "Ceramic Mug",
+      "productType": "Mug",
+      "libraryCategory": "Kitchen & Dining",
+      "path": "images/kitchen-dining/ceramic-mug-002.jpg",
+      "description": "A ceramic mug for coffee or tea, with a rounded body and a looped handle.",
+      "visualDescription": "Ceramic Mug. Photographed against an in-context setting with surrounding detail; bright overall, dominant tones muted blue, orange, white; landscape format.",
+      "designTags": [
+        "lifestyle",
+        "minimal",
+        "neutral",
+        "rustic",
+        "studio"
+      ],
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "slug": "walnut-cutting-board",
+      "query": "wooden cutting board",
+      "category": "kitchen-dining",
+      "dest": "/products/walnut-cutting-board-1.jpg",
+      "id": "asset_143",
+      "name": "Wooden Serving Board",
+      "productType": "Cutting Board",
+      "libraryCategory": "Kitchen & Dining",
+      "path": "images/kitchen-dining/wooden-cutting-board-002.jpg",
+      "description": "A wooden board used for prepping ingredients or serving cheese and charcuterie.",
+      "visualDescription": "Wooden Serving Board. Photographed against an in-context setting with surrounding detail; mid-toned overall, dominant tones orange, light grey; landscape format.",
+      "designTags": [
+        "editorial",
+        "lifestyle",
+        "neutral",
+        "rustic"
+      ],
+      "width": 1024,
+      "height": 685
+    },
+    {
+      "slug": "stovetop-tea-kettle",
+      "query": "tea kettle",
+      "category": "kitchen-dining",
+      "dest": "/products/stovetop-tea-kettle-1.jpg",
+      "id": "asset_139",
+      "name": "Tea Kettle",
+      "productType": "Kettle",
+      "libraryCategory": "Kitchen & Dining",
+      "path": "images/kitchen-dining/tea-kettle-001.jpg",
+      "description": "A kettle for boiling water for tea and coffee.",
+      "visualDescription": "Tea Kettle. Photographed against a plain, uncluttered background; bright overall, dominant tones white, orange, muted orange; landscape format.",
+      "designTags": [
+        "modern",
+        "rustic",
+        "studio"
+      ],
+      "width": 1024,
+      "height": 932
+    },
+    {
+      "slug": "stemmed-wine-glass",
+      "query": "wine glass",
+      "category": "kitchen-dining",
+      "dest": "/products/stemmed-wine-glass-1.jpg",
+      "id": "asset_141",
+      "name": "Wine Glass",
+      "productType": "Wine Glass",
+      "libraryCategory": "Kitchen & Dining",
+      "path": "images/kitchen-dining/wine-glass-001.jpg",
+      "description": "A stemmed glass for serving wine.",
+      "visualDescription": "Wine Glass. Photographed against a plain, uncluttered background; bright overall, dominant tones white, muted blue, muted purple; portrait format.",
+      "designTags": [
+        "editorial",
+        "premium",
+        "studio"
+      ],
+      "width": 960,
+      "height": 1280
+    },
+    {
+      "slug": "ceramic-serving-bowl",
+      "query": "serving bowl",
+      "category": "kitchen-dining",
+      "dest": "/products/ceramic-serving-bowl-1.jpg",
+      "id": "asset_135",
+      "name": "Serving Bowl",
+      "productType": "Serving Bowl",
+      "libraryCategory": "Kitchen & Dining",
+      "path": "images/kitchen-dining/serving-bowl-001.jpg",
+      "description": "A wide bowl for serving salads, pasta or sides at the table.",
+      "visualDescription": "Serving Bowl. Photographed against an in-context setting with surrounding detail; light overall, dominant tones light grey, red; landscape format.",
+      "designTags": [
+        "lifestyle",
+        "minimal",
+        "neutral",
+        "rustic"
+      ],
+      "width": 1600,
+      "height": 1200
+    },
+    {
+      "slug": "porcelain-teapot",
+      "query": "teapot",
+      "category": "kitchen-dining",
+      "dest": "/products/porcelain-teapot-1.jpg",
+      "id": "asset_140",
+      "name": "Teapot",
+      "productType": "Teapot",
+      "libraryCategory": "Kitchen & Dining",
+      "path": "images/kitchen-dining/teapot-001.jpg",
+      "description": "A teapot for steeping and pouring loose-leaf or bagged tea.",
+      "visualDescription": "Teapot. Photographed against an in-context setting with surrounding detail; mid-toned overall, dominant tones yellow, purple, orange; landscape format.",
+      "designTags": [
+        "editorial",
+        "lifestyle",
+        "minimal",
+        "rustic"
+      ],
+      "width": 960,
+      "height": 640
+    },
+    {
+      "slug": "conical-coffee-grinder",
+      "query": "coffee grinder",
+      "category": "kitchen-dining",
+      "dest": "/products/conical-coffee-grinder-1.jpg",
+      "id": "asset_127",
+      "name": "Coffee Grinder",
+      "productType": "Coffee Grinder",
+      "libraryCategory": "Kitchen & Dining",
+      "path": "images/kitchen-dining/coffee-grinder-001.jpg",
+      "description": "A grinder used to mill coffee beans before brewing.",
+      "visualDescription": "Coffee Grinder. Photographed against a plain, uncluttered background; dark overall, dominant tones black, orange; portrait format.",
+      "designTags": [
+        "dark",
+        "rustic",
+        "studio"
+      ],
+      "width": 757,
+      "height": 1024
+    },
+    {
+      "slug": "cast-iron-skillet",
+      "query": "cast iron skillet",
+      "category": "kitchen-dining",
+      "dest": "/products/cast-iron-skillet-1.jpg",
+      "id": "asset_124",
+      "name": "Cast Iron Skillet",
+      "productType": "Skillet",
+      "libraryCategory": "Kitchen & Dining",
+      "path": "images/kitchen-dining/cast-iron-skillet-001.jpg",
+      "description": "A heavy cast iron skillet for stovetop and oven cooking.",
+      "visualDescription": "Cast Iron Skillet. Photographed against an in-context setting with surrounding detail; light overall, dominant tones yellow, orange, muted yellow; portrait format.",
+      "designTags": [
+        "dark",
+        "lifestyle",
+        "rustic",
+        "studio"
+      ],
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "slug": "glass-storage-jar",
+      "query": "glass storage jar",
+      "category": "kitchen-dining",
+      "dest": "/products/glass-storage-jar-1.jpg",
+      "id": "asset_136",
+      "name": "Spice Jar Set",
+      "productType": "Spice Storage",
+      "libraryCategory": "Kitchen & Dining",
+      "path": "images/kitchen-dining/spice-jar-set-001.jpg",
+      "description": "A set of small jars used to organise ground spices in a kitchen.",
+      "visualDescription": "Spice Jar Set. Photographed against an in-context setting with surrounding detail; mid-toned overall, dominant tones orange, light grey; landscape format.",
+      "designTags": [
+        "editorial",
+        "lifestyle",
+        "neutral",
+        "rustic"
+      ],
+      "width": 1024,
+      "height": 679
+    },
+    {
+      "slug": "hardcover-notebook",
+      "query": "hardcover notebook",
+      "category": "workspace",
+      "dest": "/products/hardcover-notebook-1.jpg",
+      "id": "asset_147",
+      "name": "Hardcover Notebook",
+      "productType": "Notebook",
+      "libraryCategory": "Office & Desk",
+      "path": "images/office-desk/hardcover-notebook-002.jpg",
+      "description": "A bound notebook for notes, journaling and planning.",
+      "visualDescription": "Hardcover Notebook. Photographed against an in-context setting with surrounding detail; light overall, dominant tones red, white, charcoal; landscape format.",
+      "designTags": [
+        "editorial",
+        "lifestyle",
+        "minimal",
+        "neutral",
+        "studio"
+      ],
+      "width": 960,
+      "height": 628
+    },
+    {
+      "slug": "fountain-pen",
+      "query": "fountain pen",
+      "category": "workspace",
+      "dest": "/products/fountain-pen-1.jpg",
+      "id": "asset_145",
+      "name": "Fountain Pen",
+      "productType": "Pen",
+      "libraryCategory": "Office & Desk",
+      "path": "images/office-desk/fountain-pen-001.jpg",
+      "description": "A refillable pen for handwriting and correspondence.",
+      "visualDescription": "Fountain Pen. Photographed against an in-context setting with surrounding detail; dark overall, dominant tones black, grey, charcoal; landscape format.",
+      "designTags": [
+        "dark",
+        "editorial",
+        "lifestyle",
+        "premium",
+        "studio"
+      ],
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "slug": "aluminium-laptop-stand",
+      "query": "laptop stand",
+      "category": "workspace",
+      "dest": "/products/aluminium-laptop-stand-1.jpg",
+      "id": "asset_148",
+      "name": "Laptop Stand",
+      "productType": "Laptop Stand",
+      "libraryCategory": "Office & Desk",
+      "path": "images/office-desk/laptop-stand-001.jpg",
+      "description": "A stand that raises a laptop to a more comfortable viewing height.",
+      "visualDescription": "Laptop Stand. Photographed against an in-context setting with surrounding detail; light overall, dominant tones yellow, light grey; landscape format.",
+      "designTags": [
+        "lifestyle",
+        "minimal",
+        "modern",
+        "studio"
+      ],
+      "width": 1600,
+      "height": 1200
+    },
+    {
+      "slug": "weekly-planner",
+      "query": "weekly planner",
+      "category": "workspace",
+      "dest": "/products/weekly-planner-1.jpg",
+      "id": "asset_154",
+      "name": "Weekly Planner",
+      "productType": "Planner",
+      "libraryCategory": "Office & Desk",
+      "path": "images/office-desk/weekly-planner-001.jpg",
+      "description": "A dated planner for laying out a week of work and appointments.",
+      "visualDescription": "Weekly Planner. Photographed against an in-context setting with surrounding detail; light overall, dominant tones white, light grey, orange; square format.",
+      "designTags": [
+        "editorial",
+        "lifestyle",
+        "minimal",
+        "neutral"
+      ],
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "slug": "desk-pen-cup",
+      "query": "pen holder",
+      "category": "workspace",
+      "dest": "/products/desk-pen-cup-1.jpg",
+      "id": "asset_150",
+      "name": "Pen Holder",
+      "productType": "Pen Cup",
+      "libraryCategory": "Office & Desk",
+      "path": "images/office-desk/pen-holder-001.jpg",
+      "description": "A cup that stands pens and pencils upright on a desk.",
+      "visualDescription": "Pen Holder. Photographed against an in-context setting with surrounding detail; bright overall, dominant tones white, pink, muted green; landscape format.",
+      "designTags": [
+        "lifestyle",
+        "minimal",
+        "neutral",
+        "studio"
+      ],
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "slug": "graphite-pencil-set",
+      "query": "pencil set",
+      "category": "workspace",
+      "dest": "/products/graphite-pencil-set-1.jpg",
+      "id": "asset_151",
+      "name": "Pencil Set",
+      "productType": "Pencils",
+      "libraryCategory": "Office & Desk",
+      "path": "images/office-desk/pencil-set-001.jpg",
+      "description": "Wooden pencils for writing, sketching and note-taking.",
+      "visualDescription": "Pencil Set. Photographed against an in-context setting with surrounding detail; mid-toned overall, dominant tones purple, orange, red; landscape format.",
+      "designTags": [
+        "colorful",
+        "lifestyle",
+        "minimal",
+        "studio"
+      ],
+      "width": 960,
+      "height": 643
+    },
+    {
+      "slug": "canvas-weekender",
+      "query": "canvas weekender bag",
+      "category": "travel",
+      "dest": "/products/canvas-weekender-1.jpg",
+      "id": "asset_183",
+      "name": "Weekender Duffel Bag",
+      "productType": "Weekender Bag",
+      "libraryCategory": "Travel & Bags",
+      "path": "images/travel-bags/weekender-duffel-bag-001.jpg",
+      "description": "A soft duffel-style holdall sized for short trips and overnight stays.",
+      "visualDescription": "Weekender Duffel Bag. Photographed against an in-context setting with surrounding detail; mid-toned overall, dominant tones orange, muted orange; landscape format.",
+      "designTags": [
+        "editorial",
+        "lifestyle",
+        "neutral",
+        "premium",
+        "rustic"
+      ],
+      "width": 960,
+      "height": 640
+    },
+    {
+      "slug": "leather-daypack",
+      "query": "leather backpack",
+      "category": "travel",
+      "dest": "/products/leather-daypack-1.jpg",
+      "id": "asset_189",
+      "name": "Canvas Daypack",
+      "productType": "Daypack",
+      "libraryCategory": "Travel & Bags",
+      "path": "images/travel-bags/canvas-daypack-001.jpg",
+      "description": "A canvas backpack with leather trim and buckle straps, shown resting against a fallen log.",
+      "visualDescription": "Canvas Daypack. Photographed against an in-context setting with surrounding detail; dark overall, dominant tones charcoal, grey, green; portrait format.",
+      "designTags": [
+        "dark",
+        "editorial",
+        "lifestyle",
+        "neutral",
+        "premium"
+      ],
+      "width": 683,
+      "height": 1024
+    },
+    {
+      "slug": "passport-folio",
+      "query": "passport holder",
+      "category": "travel",
+      "dest": "/products/passport-folio-1.jpg",
+      "id": "asset_194",
+      "name": "Leather Document Cover",
+      "productType": "Document Cover",
+      "libraryCategory": "Travel & Bags",
+      "path": "images/travel-bags/leather-document-cover-001.jpg",
+      "description": "A slim leather cover sized for a passport, pocket notebook or travel documents.",
+      "visualDescription": "Leather Document Cover. Photographed against a plain, uncluttered background; bright overall, dominant tones light grey, white, muted orange; landscape format.",
+      "designTags": [
+        "minimal",
+        "premium",
+        "studio"
+      ],
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "slug": "leather-luggage-tag",
+      "query": "luggage tag",
+      "category": "travel",
+      "dest": "/products/leather-luggage-tag-1.jpg",
+      "id": "asset_191",
+      "name": "Luggage Tag",
+      "productType": "Luggage Tag",
+      "libraryCategory": "Travel & Bags",
+      "path": "images/travel-bags/luggage-tag-001.jpg",
+      "description": "A tag that attaches to a bag handle to identify luggage.",
+      "visualDescription": "Luggage Tag. Photographed against an in-context setting with surrounding detail; dark overall, dominant tones black, orange, yellow; landscape format.",
+      "designTags": [
+        "dark",
+        "lifestyle",
+        "minimal",
+        "premium",
+        "studio"
+      ],
+      "width": 1024,
+      "height": 699
+    },
+    {
+      "slug": "compact-crossbody",
+      "query": "crossbody bag",
+      "category": "travel",
+      "dest": "/products/compact-crossbody-1.jpg",
+      "id": "asset_186",
+      "name": "Crossbody Bag",
+      "productType": "Crossbody Bag",
+      "libraryCategory": "Travel & Bags",
+      "path": "images/travel-bags/crossbody-bag-002.jpg",
+      "description": "A small shoulder bag worn across the body for everyday essentials.",
+      "visualDescription": "Crossbody Bag. Photographed against an in-context setting with surrounding detail; light overall, dominant tones yellow, white, muted green; portrait format.",
+      "designTags": [
+        "editorial",
+        "lifestyle",
+        "minimal",
+        "premium"
+      ],
+      "width": 723,
+      "height": 1024
+    },
+    {
+      "slug": "minimalist-daypack",
+      "query": "minimalist daypack",
+      "category": "travel",
+      "dest": "/products/minimalist-daypack-1.jpg",
+      "id": "asset_193",
+      "name": "Minimalist Daypack",
+      "productType": "Daypack",
+      "libraryCategory": "Travel & Bags",
+      "path": "images/travel-bags/minimalist-daypack-001.jpg",
+      "description": "A small everyday backpack for commuting, classes and day trips.",
+      "visualDescription": "Minimalist Daypack. Photographed against an in-context setting with surrounding detail; dark overall, dominant tones yellow, green; landscape format.",
+      "designTags": [
+        "dark",
+        "lifestyle",
+        "minimal",
+        "modern",
+        "neutral"
+      ],
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "slug": "picnic-blanket",
+      "query": "picnic blanket",
+      "category": "outdoor",
+      "dest": "/products/picnic-blanket-1.jpg",
+      "id": "asset_176",
+      "name": "Outdoor Picnic Blanket",
+      "productType": "Picnic Blanket",
+      "libraryCategory": "Outdoor",
+      "path": "images/outdoor/picnic-blanket-002.jpg",
+      "description": "A blanket spread on grass or sand for picnics and outdoor lounging.",
+      "visualDescription": "Outdoor Picnic Blanket. Photographed against an in-context setting with surrounding detail; light overall, dominant tones teal, green, muted yellow; portrait format.",
+      "designTags": [
+        "coastal",
+        "lifestyle",
+        "rustic"
+      ],
+      "width": 960,
+      "height": 1438
+    },
+    {
+      "slug": "insulated-flask",
+      "query": "insulated outdoor bottle",
+      "category": "outdoor",
+      "dest": "/products/insulated-flask-1.jpg",
+      "id": "asset_173",
+      "name": "Insulated Outdoor Bottle",
+      "productType": "Insulated Bottle",
+      "libraryCategory": "Outdoor",
+      "path": "images/outdoor/insulated-outdoor-bottle-001.jpg",
+      "description": "An insulated bottle that keeps drinks hot or cold on hikes and day trips.",
+      "visualDescription": "Insulated Outdoor Bottle. Photographed against an in-context setting with surrounding detail; light overall, dominant tones black, grey, white; portrait format.",
+      "designTags": [
+        "lifestyle",
+        "modern",
+        "outdoor",
+        "studio"
+      ],
+      "width": 683,
+      "height": 1024
+    },
+    {
+      "slug": "camping-lantern",
+      "query": "camping lantern",
+      "category": "outdoor",
+      "dest": "/products/camping-lantern-1.jpg",
+      "id": "asset_162",
+      "name": "Camping Lantern",
+      "productType": "Lantern",
+      "libraryCategory": "Outdoor",
+      "path": "images/outdoor/camping-lantern-002.jpg",
+      "description": "A portable lantern used to light a tent, campsite or porch.",
+      "visualDescription": "Camping Lantern. Photographed against an in-context setting with surrounding detail; mid-toned overall, dominant tones light grey, red, grey; landscape format.",
+      "designTags": [
+        "dark",
+        "lifestyle",
+        "outdoor",
+        "rustic"
+      ],
+      "width": 960,
+      "height": 714
+    },
+    {
+      "slug": "outdoor-hammock",
+      "query": "camping hammock",
+      "category": "outdoor",
+      "dest": "/products/outdoor-hammock-1.jpg",
+      "id": "asset_160",
+      "name": "Camping Hammock",
+      "productType": "Hammock",
+      "libraryCategory": "Outdoor",
+      "path": "images/outdoor/camping-hammock-002.jpg",
+      "description": "A fabric hammock strung between trees or posts for resting outdoors.",
+      "visualDescription": "Camping Hammock. Photographed against an in-context setting with surrounding detail; light overall, dominant tones grey, teal, yellow; landscape format.",
+      "designTags": [
+        "coastal",
+        "lifestyle",
+        "outdoor"
+      ],
+      "width": 960,
+      "height": 639
+    },
+    {
+      "slug": "wicker-picnic-basket",
+      "query": "picnic basket",
+      "category": "outdoor",
+      "dest": "/products/wicker-picnic-basket-1.jpg",
+      "id": "asset_174",
+      "name": "Picnic Basket",
+      "productType": "Picnic Basket",
+      "libraryCategory": "Outdoor",
+      "path": "images/outdoor/picnic-basket-001.jpg",
+      "description": "A lidded wicker basket for carrying food and tableware to a picnic.",
+      "visualDescription": "Picnic Basket. Photographed against an in-context setting with surrounding detail; mid-toned overall, dominant tones yellow, orange, muted orange; landscape format.",
+      "designTags": [
+        "lifestyle",
+        "neutral",
+        "rustic"
+      ],
+      "width": 960,
+      "height": 640
+    },
+    {
+      "slug": "garden-watering-can",
+      "query": "watering can",
+      "category": "outdoor",
+      "dest": "/products/garden-watering-can-1.jpg",
+      "id": "asset_179",
+      "name": "Garden Watering Can",
+      "productType": "Watering Can",
+      "libraryCategory": "Outdoor",
+      "path": "images/outdoor/watering-can-001.jpg",
+      "description": "A watering can with a long spout for garden beds, pots and indoor plants.",
+      "visualDescription": "Garden Watering Can. Photographed against an in-context setting with surrounding detail; bright overall, dominant tones white, red, blue; landscape format.",
+      "designTags": [
+        "lifestyle",
+        "neutral",
+        "rustic"
+      ],
+      "width": 1024,
+      "height": 727
+    },
+    {
+      "slug": "merino-knit-sweater",
+      "query": "knit sweater",
+      "category": "apparel",
+      "dest": "/products/merino-knit-sweater-1.jpg",
+      "id": "asset_037",
+      "name": "Knit Sweater",
+      "productType": "Sweater",
+      "libraryCategory": "Apparel",
+      "path": "images/apparel/knit-sweater-002.jpg",
+      "description": "A knitted pullover sweater for cooler weather.",
+      "visualDescription": "Knit Sweater. Photographed against an in-context setting with surrounding detail; bright overall, dominant tones muted orange, red, muted red; landscape format.",
+      "designTags": [
+        "editorial",
+        "lifestyle",
+        "neutral",
+        "rustic"
+      ],
+      "width": 960,
+      "height": 640
+    },
+    {
+      "slug": "organic-cotton-tee",
+      "query": "cotton tshirt",
+      "category": "apparel",
+      "dest": "/products/organic-cotton-tee-1.jpg",
+      "id": "asset_028",
+      "name": "Cotton T-Shirt",
+      "productType": "T-Shirt",
+      "libraryCategory": "Apparel",
+      "path": "images/apparel/cotton-tshirt-002.jpg",
+      "description": "A short-sleeve cotton t-shirt, a plain everyday basic.",
+      "visualDescription": "Cotton T-Shirt. Photographed against an in-context setting with surrounding detail; light overall, dominant tones grey, white, orange; landscape format.",
+      "designTags": [
+        "lifestyle",
+        "minimal",
+        "neutral",
+        "studio"
+      ],
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "slug": "twill-overshirt",
+      "query": "casual overshirt",
+      "category": "apparel",
+      "dest": "/products/twill-overshirt-1.jpg",
+      "id": "asset_024",
+      "name": "Casual Overshirt",
+      "productType": "Overshirt",
+      "libraryCategory": "Apparel",
+      "path": "images/apparel/casual-overshirt-001.jpg",
+      "description": "A shirt-cut overlayer worn open or buttoned over a tee.",
+      "visualDescription": "Casual Overshirt. Photographed against an in-context setting with surrounding detail; bright overall, dominant tones white, green; portrait format.",
+      "designTags": [
+        "editorial",
+        "lifestyle",
+        "minimal",
+        "neutral"
+      ],
+      "width": 824,
+      "height": 1024
+    },
+    {
+      "slug": "tailored-chinos",
+      "query": "chino trousers",
+      "category": "apparel",
+      "dest": "/products/tailored-chinos-1.jpg",
+      "id": "asset_026",
+      "name": "Cotton Trousers",
+      "productType": "Trousers",
+      "libraryCategory": "Apparel",
+      "path": "images/apparel/cotton-trousers-001.jpg",
+      "description": "Flat-laid cotton trousers cut for everyday casual wear.",
+      "visualDescription": "Cotton Trousers. Photographed against an in-context setting with surrounding detail; light overall, dominant tones orange, white; portrait format.",
+      "designTags": [
+        "editorial",
+        "lifestyle",
+        "minimal",
+        "neutral"
+      ],
+      "width": 716,
+      "height": 1024
+    },
+    {
+      "slug": "ribbed-beanie",
+      "query": "knit beanie",
+      "category": "apparel",
+      "dest": "/products/ribbed-beanie-1.jpg",
+      "id": "asset_035",
+      "name": "Knit Beanie",
+      "productType": "Beanie",
+      "libraryCategory": "Apparel",
+      "path": "images/apparel/knit-beanie-001.jpg",
+      "description": "A knitted beanie that pulls down over the ears in cold weather.",
+      "visualDescription": "Knit Beanie. Photographed against an in-context setting with surrounding detail; mid-toned overall, dominant tones charcoal, light grey, grey; landscape format.",
+      "designTags": [
+        "dark",
+        "lifestyle",
+        "neutral",
+        "rustic"
+      ],
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "slug": "slim-leather-wallet",
+      "query": "leather wallet",
+      "category": "accessories",
+      "dest": "/products/slim-leather-wallet-1.jpg",
+      "id": "asset_011",
+      "name": "Leather Wallet",
+      "productType": "Wallet",
+      "libraryCategory": "Accessories",
+      "path": "images/accessories/leather-wallet-002.jpg",
+      "description": "A folding leather wallet with card slots and a note section.",
+      "visualDescription": "Leather Wallet. Photographed against an in-context setting with surrounding detail; bright overall, dominant tones charcoal, white, muted blue; landscape format.",
+      "designTags": [
+        "dark",
+        "lifestyle",
+        "minimal",
+        "premium",
+        "studio"
+      ],
+      "width": 1600,
+      "height": 1200
+    },
+    {
+      "slug": "acetate-sunglasses",
+      "query": "sunglasses",
+      "category": "accessories",
+      "dest": "/products/acetate-sunglasses-1.jpg",
+      "id": "asset_017",
+      "name": "Sunglasses",
+      "productType": "Sunglasses",
+      "libraryCategory": "Accessories",
+      "path": "images/accessories/sunglasses-002.jpg",
+      "description": "Tinted sunglasses with a moulded frame for bright conditions.",
+      "visualDescription": "Sunglasses. Photographed against an in-context setting with surrounding detail; light overall, dominant tones red, grey, light grey; landscape format.",
+      "designTags": [
+        "coastal",
+        "editorial",
+        "lifestyle",
+        "premium",
+        "studio"
+      ],
+      "width": 960,
+      "height": 638
+    },
+    {
+      "slug": "leather-belt",
+      "query": "leather belt",
+      "category": "accessories",
+      "dest": "/products/leather-belt-1.jpg",
+      "id": "asset_009",
+      "name": "Leather Belt",
+      "productType": "Belt",
+      "libraryCategory": "Accessories",
+      "path": "images/accessories/leather-belt-001.jpg",
+      "description": "A leather belt with a metal buckle.",
+      "visualDescription": "Leather Belt. Photographed against an in-context setting with surrounding detail; bright overall, dominant tones orange, blue, muted orange; landscape format.",
+      "designTags": [
+        "dark",
+        "lifestyle",
+        "premium",
+        "studio"
+      ],
+      "width": 1024,
+      "height": 681
+    },
+    {
+      "slug": "wool-scarf",
+      "query": "wool scarf",
+      "category": "accessories",
+      "dest": "/products/wool-scarf-1.jpg",
+      "id": "asset_019",
+      "name": "Wool Scarf",
+      "productType": "Scarf",
+      "libraryCategory": "Accessories",
+      "path": "images/accessories/wool-scarf-001.jpg",
+      "description": "A knitted scarf worn wrapped around the neck in cold weather.",
+      "visualDescription": "Wool Scarf. Photographed against an in-context setting with surrounding detail; light overall, dominant tones muted purple, yellow, charcoal; landscape format.",
+      "designTags": [
+        "editorial",
+        "lifestyle",
+        "neutral",
+        "rustic"
+      ],
+      "width": 960,
+      "height": 658
+    },
+    {
+      "slug": "field-wristwatch",
+      "query": "wristwatch",
+      "category": "accessories",
+      "dest": "/products/field-wristwatch-1.jpg",
+      "id": "asset_021",
+      "name": "Wristwatch",
+      "productType": "Watch",
+      "libraryCategory": "Accessories",
+      "path": "images/accessories/wristwatch-002.jpg",
+      "description": "An analog wristwatch with a strap and a round dial.",
+      "visualDescription": "Wristwatch. Photographed against an in-context setting with surrounding detail; mid-toned overall, dominant tones charcoal, blue, grey; landscape format.",
+      "designTags": [
+        "dark",
+        "lifestyle",
+        "minimal",
+        "premium",
+        "studio"
+      ],
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "slug": "felt-brim-hat",
+      "query": "felt hat",
+      "category": "accessories",
+      "dest": "/products/felt-brim-hat-1.jpg",
+      "id": "asset_005",
+      "name": "Felt Hat",
+      "productType": "Hat",
+      "libraryCategory": "Accessories",
+      "path": "images/accessories/felt-hat-001.jpg",
+      "description": "A brimmed felt hat worn as a finishing accessory.",
+      "visualDescription": "Felt Hat. Photographed against an in-context setting with surrounding detail; dark overall, dominant tones orange, yellow; landscape format.",
+      "designTags": [
+        "dark",
+        "editorial",
+        "lifestyle",
+        "premium",
+        "rustic"
+      ],
+      "width": 1024,
+      "height": 685
+    },
+    {
+      "slug": "botanical-soap-set",
+      "query": "soap bar set",
+      "category": "personal",
+      "dest": "/products/botanical-soap-set-1.jpg",
+      "id": "asset_090",
+      "name": "Soap Bar Set",
+      "productType": "Soap Bar",
+      "libraryCategory": "Gifts & General Lifestyle",
+      "path": "images/gifts-lifestyle/soap-bar-set-001.jpg",
+      "description": "Bars of soap presented as a bath and body gift set.",
+      "visualDescription": "Soap Bar Set. Photographed against an in-context setting with surrounding detail; bright overall, dominant tones muted yellow, white, yellow; landscape format.",
+      "designTags": [
+        "lifestyle",
+        "minimal",
+        "neutral",
+        "rustic",
+        "studio"
+      ],
+      "width": 960,
+      "height": 640
+    },
+    {
+      "slug": "grooming-kit",
+      "query": "grooming kit",
+      "category": "personal",
+      "dest": "/products/grooming-kit-1.jpg",
+      "id": "asset_082",
+      "name": "Grooming Kit",
+      "productType": "Grooming Set",
+      "libraryCategory": "Gifts & General Lifestyle",
+      "path": "images/gifts-lifestyle/grooming-kit-001.jpg",
+      "description": "A set of grooming tools packaged together as a kit.",
+      "visualDescription": "Grooming Kit. Photographed against a plain, uncluttered background; bright overall, dominant tones light grey, white, grey; landscape format.",
+      "designTags": [
+        "dark",
+        "premium",
+        "studio"
+      ],
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "slug": "turkish-bath-towels",
+      "query": "bath towel set",
+      "category": "personal",
+      "dest": "/products/turkish-bath-towels-1.jpg",
+      "id": "asset_078",
+      "name": "Bath Towel Set",
+      "productType": "Bath Towel",
+      "libraryCategory": "Gifts & General Lifestyle",
+      "path": "images/gifts-lifestyle/bath-towel-set-001.jpg",
+      "description": "Folded bath towels presented as a set.",
+      "visualDescription": "Bath Towel Set. Photographed against an in-context setting with surrounding detail; bright overall, dominant tones light grey, grey, white; square format.",
+      "designTags": [
+        "coastal",
+        "lifestyle",
+        "minimal",
+        "neutral",
+        "studio"
+      ],
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "slug": "safety-razor",
+      "query": "safety razor",
+      "category": "personal",
+      "dest": "/products/safety-razor-1.jpg",
+      "id": "asset_087",
+      "name": "Razor & Blade Set",
+      "productType": "Razor",
+      "libraryCategory": "Gifts & General Lifestyle",
+      "path": "images/gifts-lifestyle/razor-blade-set-001.jpg",
+      "description": "A razor handle shown with spare blade cartridges.",
+      "visualDescription": "Razor & Blade Set. Photographed against an in-context setting with surrounding detail; bright overall, dominant tones white, blue; landscape format.",
+      "designTags": [
+        "dark",
+        "lifestyle",
+        "minimal",
+        "premium",
+        "studio"
+      ],
+      "width": 1024,
+      "height": 748
+    },
+    {
+      "slug": "cork-yoga-mat",
+      "query": "yoga mat",
+      "category": "wellness",
+      "dest": "/products/cork-yoga-mat-1.jpg",
+      "id": "asset_077",
+      "name": "Yoga Mat",
+      "productType": "Yoga Mat",
+      "libraryCategory": "Fitness & Wellness",
+      "path": "images/fitness-wellness/yoga-mat-002.jpg",
+      "description": "A rollable exercise mat used for yoga, stretching and floor work.",
+      "visualDescription": "Yoga Mat. Photographed against a plain, uncluttered background; bright overall, dominant tones white, blue; portrait format.",
+      "designTags": [
+        "colorful",
+        "lifestyle",
+        "minimal",
+        "studio"
+      ],
+      "width": 683,
+      "height": 1024
+    },
+    {
+      "slug": "recovery-foam-roller",
+      "query": "foam roller",
+      "category": "wellness",
+      "dest": "/products/recovery-foam-roller-1.jpg",
+      "id": "asset_068",
+      "name": "Foam Roller",
+      "productType": "Foam Roller",
+      "libraryCategory": "Fitness & Wellness",
+      "path": "images/fitness-wellness/foam-roller-001.jpg",
+      "description": "A cylindrical foam roller used to release muscles after training.",
+      "visualDescription": "Foam Roller. Photographed against a plain, uncluttered background; bright overall, dominant tones white, yellow; landscape format.",
+      "designTags": [
+        "minimal",
+        "modern",
+        "studio"
+      ],
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "slug": "essential-oil-collection",
+      "query": "essential oil set",
+      "category": "wellness",
+      "dest": "/products/essential-oil-collection-1.jpg",
+      "id": "asset_079",
+      "name": "Essential Oil Set",
+      "productType": "Essential Oils",
+      "libraryCategory": "Gifts & General Lifestyle",
+      "path": "images/gifts-lifestyle/essential-oil-set-001.jpg",
+      "description": "Small dropper bottles of aromatic oils presented as a wellness set.",
+      "visualDescription": "Essential Oil Set. Photographed against an in-context setting with surrounding detail; bright overall, dominant tones red, muted red, blue; landscape format.",
+      "designTags": [
+        "lifestyle",
+        "minimal",
+        "neutral",
+        "rustic",
+        "studio"
+      ],
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "slug": "yoga-block",
+      "query": "yoga block",
+      "category": "wellness",
+      "dest": "/products/yoga-block-1.jpg",
+      "id": "asset_075",
+      "name": "Yoga Block",
+      "productType": "Yoga Block",
+      "libraryCategory": "Fitness & Wellness",
+      "path": "images/fitness-wellness/yoga-block-001.jpg",
+      "description": "A firm block used as a prop to support yoga poses.",
+      "visualDescription": "Yoga Block. Photographed against a plain, uncluttered background; bright overall, dominant tones white, purple; landscape format.",
+      "designTags": [
+        "minimal",
+        "neutral",
+        "studio"
+      ],
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "slug": "ceramic-table-lamp",
+      "query": "ceramic table lamp",
+      "category": "lighting",
+      "dest": "/products/ceramic-table-lamp-1.jpg",
+      "id": "asset_099",
+      "name": "Ceramic Table Lamp",
+      "productType": "Table Lamp",
+      "libraryCategory": "Home & Living",
+      "path": "images/home-living/ceramic-table-lamp-002.jpg",
+      "description": "A table lamp with a ceramic base and a simple shade, sized for bedside tables and console styling.",
+      "visualDescription": "Ceramic Table Lamp. Photographed against an in-context setting with surrounding detail; mid-toned overall, dominant tones orange, muted yellow, red; portrait format.",
+      "designTags": [
+        "lifestyle",
+        "minimal",
+        "modern",
+        "neutral"
+      ],
+      "width": 960,
+      "height": 1440
+    },
+    {
+      "slug": "arc-floor-lamp",
+      "query": "arc floor lamp",
+      "category": "lighting",
+      "dest": "/products/arc-floor-lamp-1.jpg",
+      "id": "asset_094",
+      "name": "Standing Floor Lamp",
+      "productType": "Floor Lamp",
+      "libraryCategory": "Home & Living",
+      "path": "images/home-living/arc-floor-lamp-001.jpg",
+      "description": "A freestanding floor lamp that provides ambient light beside a sofa or reading chair.",
+      "visualDescription": "Standing Floor Lamp. Photographed against a plain, uncluttered background; bright overall, dominant tones light grey, grey; portrait format.",
+      "designTags": [
+        "minimal",
+        "modern",
+        "neutral",
+        "studio"
+      ],
+      "width": 683,
+      "height": 1024
+    },
+    {
+      "slug": "clip-desk-light",
+      "query": "clip desk light",
+      "category": "lighting",
+      "dest": "/products/clip-desk-light-1.jpg",
+      "id": "asset_045",
+      "name": "LED Desk Light",
+      "productType": "Desk Light",
+      "libraryCategory": "Electronics & Tech",
+      "path": "images/electronics/clip-desk-light-001.jpg",
+      "description": "An adjustable task light for a desk or workbench.",
+      "visualDescription": "LED Desk Light. Photographed against an in-context setting with surrounding detail; light overall, dominant tones red, muted purple, blue; landscape format.",
+      "designTags": [
+        "dark",
+        "lifestyle",
+        "minimal",
+        "modern"
+      ],
+      "width": 960,
+      "height": 638
+    },
+    {
+      "slug": "ceramic-vessel",
+      "query": "ceramic vase",
+      "category": "decor",
+      "dest": "/products/ceramic-vessel-1.jpg",
+      "id": "asset_101",
+      "name": "Ceramic Vase",
+      "productType": "Vase",
+      "libraryCategory": "Home & Living",
+      "path": "images/home-living/ceramic-vase-002.jpg",
+      "description": "A ceramic vase with a rounded body, suited to dried stems or a small arrangement.",
+      "visualDescription": "Ceramic Vase. Photographed against an in-context setting with surrounding detail; mid-toned overall, dominant tones grey, green, light grey; portrait format.",
+      "designTags": [
+        "lifestyle",
+        "minimal",
+        "modern",
+        "neutral",
+        "studio"
+      ],
+      "width": 719,
+      "height": 1024
+    },
+    {
+      "slug": "framed-art-print",
+      "query": "wall art print",
+      "category": "decor",
+      "dest": "/products/framed-art-print-1.jpg",
+      "id": "asset_118",
+      "name": "Art Print",
+      "productType": "Art Print",
+      "libraryCategory": "Home & Living",
+      "path": "images/home-living/art-print-001.jpg",
+      "description": "A figurative art print, suited to framing and wall display.",
+      "visualDescription": "Art Print. Photographed against an in-context setting with surrounding detail; light overall, dominant tones yellow, muted yellow; square format.",
+      "designTags": [
+        "editorial",
+        "lifestyle",
+        "minimal",
+        "modern"
+      ],
+      "width": 1022,
+      "height": 1024
+    },
+    {
+      "slug": "decorative-bowl",
+      "query": "decorative bowl",
+      "category": "decor",
+      "dest": "/products/decorative-bowl-1.jpg",
+      "id": "asset_103",
+      "name": "Decorative Bowl",
+      "productType": "Decorative Bowl",
+      "libraryCategory": "Home & Living",
+      "path": "images/home-living/decorative-bowl-001.jpg",
+      "description": "A shallow decorative bowl used as a catch-all on a console or coffee table.",
+      "visualDescription": "Decorative Bowl. Photographed against an in-context setting with surrounding detail; mid-toned overall, dominant tones grey, charcoal, light grey; landscape format.",
+      "designTags": [
+        "lifestyle",
+        "minimal",
+        "neutral",
+        "studio"
+      ],
+      "width": 1024,
+      "height": 923
+    },
+    {
+      "slug": "round-wall-mirror",
+      "query": "round wall mirror",
+      "category": "decor",
+      "dest": "/products/round-wall-mirror-1.jpg",
+      "id": "asset_116",
+      "name": "Round Wall Mirror",
+      "productType": "Wall Mirror",
+      "libraryCategory": "Home & Living",
+      "path": "images/home-living/round-wall-mirror-001.jpg",
+      "description": "A wall-mounted mirror used in an entryway, bedroom or bathroom.",
+      "visualDescription": "Round Wall Mirror. Photographed against an in-context setting with surrounding detail; bright overall, dominant tones white, light grey; portrait format.",
+      "designTags": [
+        "lifestyle",
+        "minimal",
+        "modern",
+        "premium"
+      ],
+      "width": 960,
+      "height": 1280
+    },
+    {
+      "slug": "brass-candle-holder",
+      "query": "brass candle holder",
+      "category": "decor",
+      "dest": "/products/brass-candle-holder-1.jpg",
+      "id": "asset_095",
+      "name": "Metal Candle Holder",
+      "productType": "Candle Holder",
+      "libraryCategory": "Home & Living",
+      "path": "images/home-living/brass-candle-holder-001.jpg",
+      "description": "A candle holder for taper or pillar candles, used as a tabletop or mantel accent.",
+      "visualDescription": "Metal Candle Holder. Photographed against a plain, uncluttered background; dark overall, dominant tones black, grey; portrait format.",
+      "designTags": [
+        "dark",
+        "editorial",
+        "neutral",
+        "premium",
+        "studio"
+      ],
+      "width": 681,
+      "height": 1024
+    },
+    {
+      "slug": "glass-bud-vase",
+      "query": "glass bud vase",
+      "category": "decor",
+      "dest": "/products/glass-bud-vase-1.jpg",
+      "id": "asset_108",
+      "name": "Glass Bud Vase",
+      "productType": "Bud Vase",
+      "libraryCategory": "Home & Living",
+      "path": "images/home-living/glass-bud-vase-002.jpg",
+      "description": "A slim glass vase for single stems and short arrangements on a shelf or dining table.",
+      "visualDescription": "Glass Bud Vase. Photographed against an in-context setting with surrounding detail; mid-toned overall, dominant tones charcoal, yellow, white; square format.",
+      "designTags": [
+        "editorial",
+        "lifestyle",
+        "minimal",
+        "neutral"
+      ],
+      "width": 1024,
+      "height": 1023
+    },
+    {
+      "slug": "wrapped-gift-box",
+      "query": "gift box",
+      "category": "gifts",
+      "dest": "/products/wrapped-gift-box-1.jpg",
+      "id": "asset_081",
+      "name": "Gift Box",
+      "productType": "Gift Box",
+      "libraryCategory": "Gifts & General Lifestyle",
+      "path": "images/gifts-lifestyle/gift-box-002.jpg",
+      "description": "A wrapped gift box finished with ribbon, for gifting and seasonal sets.",
+      "visualDescription": "Gift Box. Photographed against a plain, uncluttered background; bright overall, dominant tones white, muted orange, muted purple; landscape format.",
+      "designTags": [
+        "editorial",
+        "minimal",
+        "neutral",
+        "premium",
+        "studio"
+      ],
+      "width": 960,
+      "height": 640
+    },
+    {
+      "slug": "linen-playing-cards",
+      "query": "playing cards",
+      "category": "gifts",
+      "dest": "/products/linen-playing-cards-1.jpg",
+      "id": "asset_085",
+      "name": "Playing Cards",
+      "productType": "Playing Cards",
+      "libraryCategory": "Gifts & General Lifestyle",
+      "path": "images/gifts-lifestyle/playing-cards-001.jpg",
+      "description": "A deck of playing cards for games at home or while travelling.",
+      "visualDescription": "Playing Cards. Photographed against a plain, uncluttered background; dark overall, dominant tones black, light grey; landscape format.",
+      "designTags": [
+        "colorful",
+        "dark",
+        "editorial",
+        "studio"
+      ],
+      "width": 1024,
+      "height": 684
+    },
+    {
+      "slug": "loose-leaf-tea-set",
+      "query": "tea gift set",
+      "category": "gifts",
+      "dest": "/products/loose-leaf-tea-set-1.jpg",
+      "id": "asset_091",
+      "name": "Tea Gift Set",
+      "productType": "Tea Set",
+      "libraryCategory": "Gifts & General Lifestyle",
+      "path": "images/gifts-lifestyle/tea-gift-set-001.jpg",
+      "description": "Loose-leaf tea presented with serving pieces as a gift set.",
+      "visualDescription": "Tea Gift Set. Photographed against a plain, uncluttered background; bright overall, dominant tones white, muted purple, muted yellow; landscape format.",
+      "designTags": [
+        "editorial",
+        "neutral",
+        "rustic",
+        "studio"
+      ],
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "slug": "wooden-chess-set",
+      "query": "wooden board game",
+      "category": "gifts",
+      "dest": "/products/wooden-chess-set-1.jpg",
+      "id": "asset_092",
+      "name": "Chess Set",
+      "productType": "Chess Set",
+      "libraryCategory": "Gifts & General Lifestyle",
+      "path": "images/gifts-lifestyle/chess-set-001.jpg",
+      "description": "A set of turned chess pieces, laid out as two opposing sides.",
+      "visualDescription": "Chess Set. Photographed against an in-context setting with surrounding detail; bright overall, dominant tones grey, muted orange, white; landscape format.",
+      "designTags": [
+        "dark",
+        "editorial",
+        "lifestyle",
+        "rustic"
+      ],
+      "width": 1024,
+      "height": 749
+    },
+    {
+      "slug": "scented-soy-candle",
+      "query": "scented candle",
+      "category": "gifts",
+      "dest": "/products/scented-soy-candle-1.jpg",
+      "id": "asset_089",
+      "name": "Scented Candle",
+      "productType": "Candle",
+      "libraryCategory": "Gifts & General Lifestyle",
+      "path": "images/gifts-lifestyle/scented-candle-002.jpg",
+      "description": "A poured candle in a vessel, used to scent a room.",
+      "visualDescription": "Scented Candle. Photographed against an in-context setting with surrounding detail; mid-toned overall, dominant tones charcoal, teal, grey; landscape format.",
+      "designTags": [
+        "lifestyle",
+        "minimal",
+        "neutral",
+        "premium",
+        "studio"
+      ],
+      "width": 960,
+      "height": 640
+    },
+    {
+      "slug": "pour-over-set",
+      "query": "pour over coffee set",
+      "category": "gifts",
+      "dest": "/products/pour-over-set-1.jpg",
+      "id": "asset_086",
+      "name": "Pour Over Coffee Set",
+      "productType": "Coffee Dripper",
+      "libraryCategory": "Gifts & General Lifestyle",
+      "path": "images/gifts-lifestyle/pour-over-coffee-set-001.jpg",
+      "description": "A pour-over brewer and carafe for filter coffee.",
+      "visualDescription": "Pour Over Coffee Set. Photographed against an in-context setting with surrounding detail; light overall, dominant tones yellow, orange, light grey; landscape format.",
+      "designTags": [
+        "dark",
+        "editorial",
+        "lifestyle",
+        "minimal",
+        "studio"
+      ],
+      "width": 960,
+      "height": 640
+    }
+  ],
+  "surfaces": [
+    {
+      "dest": "/hero/hero-1.jpg",
+      "query": "accent armchair",
+      "id": "asset_093",
+      "name": "Accent Armchair",
+      "path": "images/home-living/accent-armchair-001.jpg"
+    },
+    {
+      "dest": "/banners/featured.jpg",
+      "query": "linen bedding set",
+      "id": "asset_111",
+      "name": "Linen Bedding Set",
+      "path": "images/home-living/linen-bedding-set-001.jpg"
+    },
+    {
+      "dest": "/banners/about.jpg",
+      "query": "decorative serving tray",
+      "id": "asset_104",
+      "name": "Decorative Tray",
+      "path": "images/home-living/decorative-serving-tray-001.jpg"
+    },
+    {
+      "dest": "/banners/editorial-dining.jpg",
+      "query": "stoneware dinner plate",
+      "id": "asset_138",
+      "name": "Stoneware Dinner Plate",
+      "path": "images/kitchen-dining/stoneware-dinner-plate-002.jpg"
+    },
+    {
+      "dest": "/banners/editorial-workspace.jpg",
+      "query": "hardcover notebook",
+      "id": "asset_147",
+      "name": "Hardcover Notebook",
+      "path": "images/office-desk/hardcover-notebook-002.jpg"
+    },
+    {
+      "dest": "/banners/editorial-travel.jpg",
+      "query": "canvas weekender bag",
+      "id": "asset_183",
+      "name": "Weekender Duffel Bag",
+      "path": "images/travel-bags/weekender-duffel-bag-001.jpg"
+    },
+    {
+      "dest": "/banners/editorial-living.jpg",
+      "query": "knit throw blanket",
+      "id": "asset_109",
+      "name": "Knit Throw Blanket",
+      "path": "images/home-living/knit-throw-blanket-001.jpg"
+    },
+    {
+      "dest": "/og/og-image.jpg",
+      "query": "ceramic vase",
+      "id": "asset_101",
+      "name": "Ceramic Vase",
+      "path": "images/home-living/ceramic-vase-002.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "slug": "home",
+      "dest": "/categories/home.jpg",
+      "id": "asset_122",
+      "name": "Woven Storage Basket",
+      "path": "images/home-living/woven-storage-basket-001.jpg"
+    },
+    {
+      "slug": "kitchen-dining",
+      "dest": "/categories/kitchen-dining.jpg",
+      "id": "asset_138",
+      "name": "Stoneware Dinner Plate",
+      "path": "images/kitchen-dining/stoneware-dinner-plate-002.jpg"
+    },
+    {
+      "slug": "workspace",
+      "dest": "/categories/workspace.jpg",
+      "id": "asset_147",
+      "name": "Hardcover Notebook",
+      "path": "images/office-desk/hardcover-notebook-002.jpg"
+    },
+    {
+      "slug": "travel",
+      "dest": "/categories/travel.jpg",
+      "id": "asset_183",
+      "name": "Weekender Duffel Bag",
+      "path": "images/travel-bags/weekender-duffel-bag-001.jpg"
+    },
+    {
+      "slug": "outdoor",
+      "dest": "/categories/outdoor.jpg",
+      "id": "asset_176",
+      "name": "Outdoor Picnic Blanket",
+      "path": "images/outdoor/picnic-blanket-002.jpg"
+    },
+    {
+      "slug": "apparel",
+      "dest": "/categories/apparel.jpg",
+      "id": "asset_037",
+      "name": "Knit Sweater",
+      "path": "images/apparel/knit-sweater-002.jpg"
+    },
+    {
+      "slug": "accessories",
+      "dest": "/categories/accessories.jpg",
+      "id": "asset_011",
+      "name": "Leather Wallet",
+      "path": "images/accessories/leather-wallet-002.jpg"
+    },
+    {
+      "slug": "personal-essentials",
+      "dest": "/categories/personal-essentials.jpg",
+      "id": "asset_078",
+      "name": "Bath Towel Set",
+      "path": "images/gifts-lifestyle/bath-towel-set-001.jpg"
+    },
+    {
+      "slug": "wellness",
+      "dest": "/categories/wellness.jpg",
+      "id": "asset_077",
+      "name": "Yoga Mat",
+      "path": "images/fitness-wellness/yoga-mat-002.jpg"
+    },
+    {
+      "slug": "lighting",
+      "dest": "/categories/lighting.jpg",
+      "id": "asset_099",
+      "name": "Ceramic Table Lamp",
+      "path": "images/home-living/ceramic-table-lamp-002.jpg"
+    },
+    {
+      "slug": "decor",
+      "dest": "/categories/decor.jpg",
+      "id": "asset_101",
+      "name": "Ceramic Vase",
+      "path": "images/home-living/ceramic-vase-002.jpg"
+    },
+    {
+      "slug": "gifts",
+      "dest": "/categories/gifts.jpg",
+      "id": "asset_081",
+      "name": "Gift Box",
+      "path": "images/gifts-lifestyle/gift-box-002.jpg"
+    }
+  ],
+  "failures": []
+}

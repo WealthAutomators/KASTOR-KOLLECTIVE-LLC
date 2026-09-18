@@ -5,35 +5,28 @@ import { fileURLToPath } from "url";
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 const colors = {
-  primary: "#7C3AED",
-  accent: "#F59E0B",
-  light: "#FAFAFA",
-  gray: "#E5E7EB",
-  white: "#FFFFFF",
+  primary: "#7A3E46",
+  accent: "#8A9A86",
+  light: "#F7F3EC",
+  gray: "#DDD4C6",
+  white: "#FBF8F2",
 };
 
 function createSvg(width, height, bg, label, sublabel = "", textColor = colors.primary) {
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}">
   <rect width="100%" height="100%" fill="${bg}"/>
-  <rect x="20" y="20" width="${width - 40}" height="${height - 40}" fill="none" stroke="${textColor}" stroke-width="1" opacity="0.15" rx="12"/>
-  <text x="50%" y="48%" dominant-baseline="middle" text-anchor="middle" fill="${textColor}" font-family="system-ui, sans-serif" font-size="${Math.min(width, height) * 0.06}" font-weight="600">${label}</text>
+  <rect x="20" y="20" width="${width - 40}" height="${height - 40}" fill="none" stroke="${textColor}" stroke-width="1" opacity="0.15"/>
+  <text x="50%" y="48%" dominant-baseline="middle" text-anchor="middle" fill="${textColor}" font-family="Georgia, serif" font-size="${Math.min(width, height) * 0.06}" font-weight="500">${label}</text>
   ${sublabel ? `<text x="50%" y="58%" dominant-baseline="middle" text-anchor="middle" fill="${textColor}" font-family="system-ui, sans-serif" font-size="${Math.min(width, height) * 0.035}" opacity="0.6">${sublabel}</text>` : ""}
 </svg>`;
 }
 
 function createLogo() {
-  return `<svg xmlns="http://www.w3.org/2000/svg" width="220" height="44" viewBox="0 0 220 44" fill="none">
-  <defs>
-    <linearGradient id="logo-mark-bg" x1="2" y1="2" x2="38" y2="42" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#8B5CF6"/>
-      <stop offset="1" stop-color="#6D28D9"/>
-    </linearGradient>
-  </defs>
-  <rect x="0" y="2" width="40" height="40" rx="10" fill="url(#logo-mark-bg)"/>
-  <rect x="6" y="30" width="28" height="3.5" rx="1.75" fill="${colors.accent}"/>
-  <text x="20" y="21" text-anchor="middle" dominant-baseline="middle" fill="${colors.white}" font-family="system-ui, sans-serif" font-size="14" font-weight="800" letter-spacing="-0.7">AAM</text>
-  <text x="50" y="19" fill="#6D28D9" font-family="system-ui, sans-serif" font-size="17" font-weight="800" letter-spacing="-0.4">AAM Partners</text>
-  <text x="50" y="34" fill="${colors.accent}" font-family="system-ui, sans-serif" font-size="10" font-weight="700" letter-spacing="2.2">LLC</text>
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="280" height="48" viewBox="0 0 280 48" fill="none">
+  <rect x="0" y="8" width="32" height="32" fill="#2C2A26"/>
+  <text x="16" y="26" text-anchor="middle" dominant-baseline="middle" fill="#F7F3EC" font-family="Georgia, serif" font-size="12" font-weight="600" letter-spacing="0.4">KK</text>
+  <text x="44" y="22" fill="#2C2A26" font-family="Georgia, serif" font-size="15" font-weight="500" letter-spacing="1.6">KASTOR KOLLECTIVE</text>
+  <text x="44" y="36" fill="#7A3E46" font-family="system-ui, sans-serif" font-size="8" font-weight="500" letter-spacing="3.2">LLC</text>
 </svg>`;
 }
 
@@ -50,7 +43,7 @@ fs.mkdirSync(path.join(root, "logo"), { recursive: true });
 fs.writeFileSync(path.join(root, "logo", "logo.svg"), createLogo());
 
 const heroItems = [
-  { name: "hero-1.svg", label: "Everything Your Home Needs", sub: "All in One Place", bg: "#F3E8FF" },
+  { name: "hero-1.svg", label: "Objects Worth Bringing Home", sub: "The Current Collection", bg: "#EDE6D9" },
 ];
 fs.mkdirSync(path.join(root, "hero"), { recursive: true });
 heroItems.forEach((item) => {
@@ -58,9 +51,9 @@ heroItems.forEach((item) => {
 });
 
 const bannerItems = [
-  { name: "promo-1.svg", label: "Upgrade Your Living", sub: "Shop Deals", bg: colors.primary, textColor: colors.white },
-  { name: "about.svg", label: "Shopping Made Easy", sub: "AAM Partners LLC", bg: "#F3E8FF" },
-  { name: "featured.svg", label: "Featured Products", sub: "Marketplace Favorites", bg: colors.primary, textColor: colors.white },
+  { name: "promo-1.svg", label: "The Home Collection", sub: "Shop Home", bg: colors.primary, textColor: colors.white },
+  { name: "about.svg", label: "A Collective", sub: "KASTOR KOLLECTIVE LLC", bg: "#EDE6D9" },
+  { name: "featured.svg", label: "Featured Collection", sub: "The Current Edit", bg: "#2C2A26", textColor: colors.white },
 ];
 fs.mkdirSync(path.join(root, "banners"), { recursive: true });
 bannerItems.forEach((item) => {

@@ -15,7 +15,7 @@ export function SectionHeading({
   title,
   subtitle,
   viewMoreLink,
-  viewMoreText = "View More",
+  viewMoreText = "View all",
   className,
   centered = false,
 }: SectionHeadingProps) {
@@ -28,12 +28,12 @@ export function SectionHeading({
       )}
     >
       <div>
-        <h2 className="text-2xl font-semibold tracking-tight text-foreground md:text-3xl">{title}</h2>
+        <h2 className="font-display text-3xl font-medium tracking-tight text-foreground md:text-4xl">{title}</h2>
         {subtitle && <p className="mt-2 text-muted-foreground">{subtitle}</p>}
       </div>
       {viewMoreLink && (
-        <Button variant="link" asChild className="text-sm font-medium">
-          <Link href={viewMoreLink}>{viewMoreText} →</Link>
+        <Button variant="link" asChild className="text-[0.7rem] font-medium uppercase tracking-[0.16em]">
+          <Link href={viewMoreLink}>{viewMoreText}</Link>
         </Button>
       )}
     </div>

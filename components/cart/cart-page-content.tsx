@@ -15,7 +15,7 @@ import { QuantitySelector } from "@/components/ui/quantity-selector";
 import { FREE_SHIPPING_THRESHOLD } from "@/lib/constants";
 
 export function CartPageContent() {
-  const { items, removeFromCart, updateQuantity, subtotal, shipping, tax, total } = useCart();
+  const { items, removeFromCart, updateQuantity, subtotal, shipping, tax, total, isHydrated } = useCart();
   const [coupon, setCoupon] = useState("");
   const [couponApplied, setCouponApplied] = useState(false);
 
@@ -27,6 +27,15 @@ export function CartPageContent() {
 
   const discount = couponApplied ? subtotal * 0.1 : 0;
   const finalTotal = total - discount;
+
+  if (!isHydrated) {
+    return (
+      <Container className="py-16 text-center">
+        <h1 className="font-display text-3xl font-medium">Your Cart</h1>
+        <p className="mt-4 text-muted-foreground">Loading the collection in your bag...</p>
+      </Container>
+    );
+  }
 
   if (items.length === 0) {
     return (

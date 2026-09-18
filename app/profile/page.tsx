@@ -20,28 +20,32 @@ export default function LoginPage() {
   };
 
   return (
-    <div className="min-h-[70vh] bg-muted/40">
+    <div className="min-h-[70vh] bg-background">
       {showError && (
-        <div className="border-b border-red-200 bg-red-50">
+        <div className="border-b border-primary/30 bg-parchment">
           <Container className="py-3">
-            <div className="flex items-center gap-2 text-sm text-red-700">
-              <AlertCircle className="h-4 w-4 shrink-0" />
+            <div className="flex items-center gap-2 text-sm text-foreground">
+              <AlertCircle className="h-4 w-4 shrink-0 text-primary" />
               <p>
-                <span className="font-semibold">ERROR:</span> Incorrect username or password.
+                <span className="font-medium">Unable to sign in.</span> Check the details and try again.
               </p>
             </div>
           </Container>
         </div>
       )}
 
-      <Container className="py-12 md:py-16">
-        <h1 className="text-center text-3xl font-semibold tracking-tight text-foreground md:text-4xl">
+      <Container className="py-16 md:py-20">
+        <p className="editorial-label text-center">Account</p>
+        <h1 className="font-display mt-3 text-center text-3xl font-medium tracking-tight md:text-5xl">
           Log in
         </h1>
+        <p className="mx-auto mt-3 max-w-md text-center text-sm text-muted-foreground">
+          A demonstration account experience — no live credentials are required beyond this form.
+        </p>
 
-        <div className="mx-auto mt-10 max-w-lg">
-          <div className="rounded-lg border border-border bg-white p-6 shadow-sm md:p-8">
-            <h2 className="text-lg font-semibold text-foreground">Log In Your Account</h2>
+        <div className="mx-auto mt-12 max-w-lg">
+          <div className="border border-border bg-card p-6 md:p-10">
+            <h2 className="font-display text-xl font-medium">Your account</h2>
 
             <form onSubmit={handleLogin} className="mt-6 space-y-5">
               <div>
